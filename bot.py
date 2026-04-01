@@ -156,6 +156,10 @@ WIN_MESSAGES = [
         "{mention} did you know that not claiming free crypto is leaving money on the table?\nWe don't know whose table. Claim your iDVC and find out.",
     ),
     (
+        "🥵 Beach vacation",
+        "{mention} want to finally go in thay beach vacation in the bahamas? with iDCC,\nyou can get enough money to?",
+    ),
+    (
         "🌍 Global Opportunity",
         "{mention} people in 0 countries are already holding iDVC.\nBe the first. Free tokens. Internationally worthless.",
     ),
